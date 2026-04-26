@@ -34,6 +34,9 @@
 - 支持 Token 鉴权
 - 兼容自建 PHP 服务端
 
+<img width="1080" height="2400" alt="IMG_20260426_150831" src="https://github.com/user-attachments/assets/dd5c37a9-7463-4447-a8b7-3af287b4d851" />
+<img width="1080" height="2400" alt="IMG_20260426_150812" src="https://github.com/user-attachments/assets/05439e76-2455-43b8-80dd-3e76aa13da5f" />
+
 ---
 
 ## 🧩 技术特点
